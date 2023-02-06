@@ -17,11 +17,11 @@ This project uses a deep learning model, specifically an Autoencoder, to remove 
 
 ## Installation
 
-- Clone this repo to your local machine using `https://github.com/mohsinmahmood12/Image-denoising.git`
+- Clone this repo to your local machine using `git clone https://github.com/mohsinmahmood12/Image-denoising.git`
 
 ## Usage
 
-- Run the `Image_denoising.ipynb` notebook to train the model and see the results.
+- Run the `Image Denoising using AutoEncoders.ipynb` notebook to train the model and see the results.
 
 ## References
 
